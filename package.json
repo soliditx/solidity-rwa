@@ -1,0 +1,21 @@
+{
+  "name": "@soliditx/solidity-rwa",
+  "version": "1.0.0",
+  "description": "Description for solidity-rwa",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soliditx/solidity-rwa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@movexl/manage-github-repo": "^1.0.0"
+  }
+}
