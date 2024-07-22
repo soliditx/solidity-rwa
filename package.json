@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-rwa",
-  "version": "1.0.138",
+  "version": "1.0.139",
   "description": "Description for solidity-rwa",
   "main": "src/index.js",
   "scripts": {
